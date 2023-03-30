@@ -42,6 +42,18 @@ color: #e07;
 color: #e07;
 }
 
+.gelb {
+color: #fffb71;
+}
+
+.blau {
+color: #9F71FF;
+}
+
+.gray {
+color: #999999;
+}
+
 .trans {
 opacity: 0;
 }
